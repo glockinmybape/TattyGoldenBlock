@@ -1,0 +1,5 @@
+name: TattyGoldenBlock
+version: '${project.version}'
+main: org.glockinmybape.tattygoldenblock.Main
+authors: [ glockinmybape ]
+description: TattyGoldenBlock
